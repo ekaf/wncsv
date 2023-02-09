@@ -1,6 +1,6 @@
 ## WNcsv-OEWN-2022
 
-WNcsv-OEWN-2022 is a CSV-formatted version of Open English WordNet 2020,
+WNcsv-OEWN-2022 is a CSV-formatted version of Open English WordNet 2022,
 derived from WNprolog-OEWN-2022 by Eric Kafe 
 (https://github.com/ekaf/wordnet-prolog), and
 bundled with a copy of the WNprolog-3.0 documentation 
