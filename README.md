@@ -15,28 +15,29 @@ https://en-word.net/static/english-wordnet-2022.zip
 The present release contains the following numbers of
 unique database posts:
 
-- wn_ant.csv: 7994
-- wn_at.csv: 1278
-- wn_cls.csv: 9620
-- wn_cs.csv: 221
-- wn_der.csv: 74781
-- wn_ent.csv: 408
-- wn_fr.csv: 21788
-- wn_g.csv: 120053
-- wn_hyp.csv: 91454
-- wn_ins.csv: 8589
-- wn_mm.csv: 12292
-- wn_mp.csv: 9201
-- wn_ms.csv: 830
-- wn_per.csv: 8070
-- wn_ppl.csv: 73
-- wn_s.csv: 211940
-- wn_sa.csv: 4100
-- wn_sim.csv: 21466
-- wn_sk.csv: 211868
-- wn_syntax.csv: 1051
-- wn_vgp.csv: 1748
-- total: 818825
+ - 8000 wn_ant.csv
+ - 1278 wn_at.csv
+ - 10536 wn_cls.csv
+ - 221 wn_cs.csv
+ - 74688 wn_der.csv
+ - 408 wn_ent.csv
+ - 4467 wn_exc.csv
+ - 21780 wn_fr.csv
+ - 120068 wn_g.csv
+ - 91551 wn_hyp.csv
+ - 8590 wn_ins.csv
+ - 12296 wn_mm.csv
+ - 9199 wn_mp.csv
+ - 830 wn_ms.csv
+ - 8072 wn_per.csv
+ - 73 wn_ppl.csv
+ - 4100 wn_sa.csv
+ - 212009 wn_s.csv
+ - 21450 wn_sim.csv
+ - 212009 wn_sk.csv
+ - 1052 wn_syntax.csv
+ - 1736 wn_vgp.csv
+ - 824413 total
 
 
 ## Utilities:
