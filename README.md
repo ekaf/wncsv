@@ -1,36 +1,42 @@
-WNcsv-3.1 is a CSV-formatted version of WordNet 3.1,
-derived from WNprolog-3.1 by Eric Kafe 
-(https://github.com/ekaf/wordnet-prolog).
+## WNcsv-OEWN-2022
 
-The Prolog databases were generated from the original
-WordNet 3.1 databases, and bundled with a copy of the
-WNprolog-3.0 documentation (c) 2012 Princeton University.
+WNcsv-OEWN-2022 is a CSV-formatted version of Open English WordNet 2020,
+derived from WNprolog-OEWN-2022 by Eric Kafe 
+(https://github.com/ekaf/wordnet-prolog), and
+bundled with a copy of the WNprolog-3.0 documentation 
+(c) 2012 Princeton University.
+
+The Prolog databases were generated from the official "wndb" export
+of the original Open English WordNet 2022 databases 
+(c) the Open English WordNet team, retrieved from:
+
+https://en-word.net/static/english-wordnet-2022.zip
 
 The present release contains the following numbers of
 unique database posts:
 
-- wn_ant.csv: 7988
+- wn_ant.csv: 7994
 - wn_at.csv: 1278
-- wn_cls.csv: 9559
+- wn_cls.csv: 9620
 - wn_cs.csv: 221
 - wn_der.csv: 74781
 - wn_ent.csv: 408
-- wn_fr.csv: 21684
-- wn_g.csv: 117791
-- wn_hyp.csv: 89172
+- wn_fr.csv: 21788
+- wn_g.csv: 120053
+- wn_hyp.csv: 91454
 - wn_ins.csv: 8589
-- wn_mm.csv: 12288
-- wn_mp.csv: 9111
-- wn_ms.csv: 797
-- wn_per.csv: 8074
+- wn_mm.csv: 12292
+- wn_mp.csv: 9201
+- wn_ms.csv: 830
+- wn_per.csv: 8070
 - wn_ppl.csv: 73
-- wn_sa.csv: 4054
-- wn_s.csv: 207272
-- wn_sim.csv: 21434
-- wn_sk.csv: 207272
-- wn_syntax.csv: 1054
-- wn_vgp.csv: 1744
-- total: 804644
+- wn_s.csv: 211940
+- wn_sa.csv: 4100
+- wn_sim.csv: 21466
+- wn_sk.csv: 211868
+- wn_syntax.csv: 1051
+- wn_vgp.csv: 1748
+- total: 818825
 
 
 ## Utilities:
