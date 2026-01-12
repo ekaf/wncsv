@@ -23,14 +23,14 @@ Furthermore, the first WNprolog-3.0 release included
 the following numbers of duplicate clauses, concerning 
 7 noun synsets (in wn_der.pl), and 3621 adverb synsets:
 
-   710 wn_ant.pl
-   110 wn_cls.pl
-    10 wn_der.pl
-  3621 wn_g.pl
-  3222 wn_per.pl
-  5580 wn_sk.pl
-  5580 wn_s.pl
- 18833 total
+- wn_ant.pl: 710
+- wn_cls.pl: 110
+- wn_der.pl: 10
+- wn_g.pl: 3621
+- wn_per.pl: 3222
+- wn_sk.pl: 5580
+- wn_s.pl: 5580
+- total: 18833
 
 The present release avoids these duplicates, and contains
 only unique clauses:
@@ -41,6 +41,7 @@ only unique clauses:
 - wn_cs.csv: 220
 - wn_der.csv: 74821
 - wn_ent.csv: 408
+- wn_exc.csv: 6050
 - wn_fr.csv: 21647
 - wn_g.csv: 117659
 - wn_hyp.csv: 89089
@@ -51,12 +52,12 @@ only unique clauses:
 - wn_per.csv: 8022
 - wn_ppl.csv: 73
 - wn_sa.csv: 4046
-- wn_s.csv: 206978
 - wn_sim.csv: 21386
 - wn_sk.csv: 206978
+- wn_s.csv: 206978
 - wn_syntax.csv: 1055
 - wn_vgp.csv: 1750
-- total: 803548
+- total: 809598
 
 ## Utilities:
 
@@ -66,3 +67,8 @@ into many database systems.
 
 - "make tab" produces a ".tab" file for every ".csv" file in the "csv" directory.
 - "make clean" deletes the ".tab" files.
+
+## News (2026):
+
+- Fix double quotes in CSV strings.
+- Use CRLF as record separator.
