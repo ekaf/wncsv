@@ -13,31 +13,31 @@ of the original Open English WordNet 2025+ databases
 https://en-word.net/static/english-wordnet-2025-plus.zip
 
 The present release contains the following numbers of
-unique database posts:
+unique database records:
 
-    7990 wn_ant.csv
-    1278 wn_at.csv
-   16591 wn_cls.csv
-     221 wn_cs.csv
-   74606 wn_der.csv
-     407 wn_ent.csv
-    4467 wn_exc.csv
-   21833 wn_fr.csv
-  120564 wn_g.csv
-   93395 wn_hyp.csv
-    8599 wn_ins.csv
-   12292 wn_mm.csv
-    9194 wn_mp.csv
-     826 wn_ms.csv
-    8067 wn_per.csv
-      73 wn_ppl.csv
-    4098 wn_sa.csv
-  203366 wn_s.csv
-   21452 wn_sim.csv
-  203366 wn_sk.csv
-     929 wn_syntax.csv
-    1726 wn_vgp.csv
-  815340 total
+- wn_ant.csv: 7990
+- wn_at.csv: 1278
+- wn_cls.csv: 16591
+- wn_cs.csv: 221
+- wn_der.csv: 74606
+- wn_ent.csv: 407
+- wn_exc.csv: 4467
+- wn_fr.csv: 21833
+- wn_g.csv: 120565
+- wn_hyp.csv: 93395
+- wn_ins.csv: 8599
+- wn_mm.csv: 12292
+- wn_mp.csv: 9194
+- wn_ms.csv: 826
+- wn_per.csv: 8067
+- wn_ppl.csv: 73
+- wn_sa.csv: 4098
+- wn_sim.csv: 21452
+- wn_sk.csv: 203366
+- wn_s.csv: 203366
+- wn_syntax.csv: 929
+- wn_vgp.csv: 1726
+- total: 815341
 
 
 ## Other versions of WordNet in CSV format
