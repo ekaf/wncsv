@@ -7,31 +7,31 @@ WordNet 3.1 databases, and bundled with a copy of the
 WNprolog-3.0 documentation (c) 2012 Princeton University.
 
 The present release contains the following numbers of
-unique database posts:
+unique database records:
 
-    7988 wn_ant.csv
-    1278 wn_at.csv
-    9559 wn_cls.csv
-     221 wn_cs.csv
-   74781 wn_der.csv
-     408 wn_ent.csv
-    6053 wn_exc.csv
-   21684 wn_fr.csv
-  117791 wn_g.csv
-   89172 wn_hyp.csv
-    8589 wn_ins.csv
-   12288 wn_mm.csv
-    9111 wn_mp.csv
-     797 wn_ms.csv
-    8074 wn_per.csv
-      73 wn_ppl.csv
-    4054 wn_sa.csv
-  207272 wn_s.csv
-   21434 wn_sim.csv
-  207272 wn_sk.csv
-    1054 wn_syntax.csv
-    1744 wn_vgp.csv
-  810697 total
+- wn_ant.csv: 7988
+- wn_at.csv: 1278
+- wn_cls.csv: 9559
+- wn_cs.csv: 221
+- wn_der.csv: 74781
+- wn_ent.csv: 408
+- wn_exc.csv: 6053
+- wn_fr.csv: 21684
+- wn_g.csv: 117791
+- wn_hyp.csv: 89172
+- wn_ins.csv: 8589
+- wn_mm.csv: 12288
+- wn_mp.csv: 9111
+- wn_ms.csv: 797
+- wn_per.csv: 8074
+- wn_ppl.csv: 73
+- wn_sa.csv: 4054
+- wn_sim.csv: 21434
+- wn_sk.csv: 207272
+- wn_s.csv: 207272
+- wn_syntax.csv: 1054
+- wn_vgp.csv: 1744
+- total: 810697
 
 
 ## Other versions of WordNet in CSV format
